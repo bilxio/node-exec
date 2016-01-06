@@ -1,8 +1,10 @@
-exec
-====
+flex-exec
+=========
 
 Call a child process with the ease of exec and safety of spawn
 
+**INFORMAION** We don't like a DEPRECATED text printed in console. So, I clone
+project and changed it.
 
 **DEPRECATED:** If your version of node supports `child_process.execFile`, consider
 using that instead, as that does everything this module does and more... the usage
